@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Kayla! 👋</h1>
-<h3 align="left">About Me:<h3>
+<h3>About Me:<h3>
 
-<p></p>
-- 🎒 I currently study Computer Science at the University of Illinois Chicago
-- 🌱 I’m currently practicing React, Python, and fullstack development
-- 💖 I do my best to combine logic and creativity in every project I work on!
+<p> 
+  <li>🎒 I currently study Computer Science at the University of Illinois Chicago</li>
+  <li>🌱 I’m currently practicing React, Python, and fullstack development</li>
+  <li> 💖 I do my best to combine logic and creativity in every project I work on!</li>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
