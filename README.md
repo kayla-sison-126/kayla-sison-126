@@ -1,5 +1,5 @@
-<h1 align="center">･ﾟ✧･.☽ Hi, I'm Kayla! 👋 ☽˚･ﾟ✧｡･ﾟ</h1>
-<h3>About Me:<h3>
+<h1>･ﾟ✧･.☽ Hi, I'm Kayla! 👋 ☽˚･ﾟ✧｡･ﾟ</h1>
+<h3>About Me:</h3>
 
 <p>🎒 I currently study Computer Science at the University of Illinois Chicago</p>
 <p>🌱 I’m currently practicing React, Python, and fullstack development</p>
