@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Kayla! 👋</h1>
+<h1 align="center">･ﾟ✧･.☽ Hi, I'm Kayla! 👋 ☽˚･ﾟ✧｡･ﾟ</h1>
 <h3>About Me:<h3>
 
-<ul> 
-  <li>🎒 I currently study Computer Science at the University of Illinois Chicago</li>
-  <li>🌱 I’m currently practicing React, Python, and fullstack development</li>
-  <li> 💖 I do my best to combine logic and creativity in every project I work on!</li>
-</ul>
+<p>🎒 I currently study Computer Science at the University of Illinois Chicago</p>
+<p>🌱 I’m currently practicing React, Python, and fullstack development</p>
+<p> 💖 I do my best to combine logic and creativity in every project I work on!</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
