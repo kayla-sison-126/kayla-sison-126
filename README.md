@@ -2,7 +2,7 @@
 
 <h4>About Me:</h4>
 <p>🎒 computer science & statistics student at the University of Illinois Urbana-Champaign</p>
-<p>🌱 currently practicing React, Python, and web development</p>
+<p>🌱 currently practicing Python, React, and web development</p>
 <p> 💖 I do my best to combine logic and creativity in every project I work on!</p>
 
 
